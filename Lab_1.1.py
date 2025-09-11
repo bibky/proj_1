@@ -25,5 +25,5 @@ def marks (a):
         print('Оценка F')
     else:
         print('Ведите оценку от 0 до 100!')    
-marks(89)
+marks(89) #Ответ
 
